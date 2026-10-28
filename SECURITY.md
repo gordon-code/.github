@@ -4,7 +4,7 @@
 
 **Do not open a public GitHub issue for security vulnerabilities.**
 
-Please report security vulnerabilities through the repository's **Security** tab > **Report a vulnerability**.
+Please report security vulnerabilities through the repository's **Security** tab > **Report a vulnerability** ([GitHub Private Vulnerability Reporting](https://docs.github.com/en/code-security/security-advisories/guidance-on-reporting-and-writing-information-about-vulnerabilities/privately-reporting-a-security-vulnerability)).
 
 This keeps the report confidential until a fix is available.
 
